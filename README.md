@@ -1,5 +1,5 @@
 # Medieval Kights
-** Medieval Knights created in AI **
+**Medieval Knights created in AI**
 
 Description:
 dark warrior knight dressed in armor and chain mail, helmet on his head, crusade, holds a classic sword with both hands, 3d render style, black background, --ar 2:3

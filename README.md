@@ -13,3 +13,7 @@ dark warrior knight dressed in armor and chain mail, helmet on his head, crusade
 
 ![Medieval Knight - Fantansy Knight](./01-knight-with-sword-looking-down.jpg)
 [Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/e61b2391-5002-4e27-be0a-e4d28187ca03?index=0)
+
+
+![Medieval Knight - Fantansy Knight](./0-fantasy-knight.jpg)
+[Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/0721e582-8558-44da-81ad-72bfbf66ca38?index=0)

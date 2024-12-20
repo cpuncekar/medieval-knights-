@@ -21,3 +21,8 @@ dark warrior knight dressed in armor and chain mail, helmet on his head, crusade
 ![Medieval Knight - Fantansy Knight](./five-knights-standing-with-swords-5-knights)
 [Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/3688387f-5295-4f2c-b9a1-8fc00a085988?index=0)
 description: 5 knights standing side by side with a sword putting in front of themselves.
+
+
+![Medieval Knight - Fantansy Knight](./three-knights-with-hornes-3-knights.jpg)
+[Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/bcd20d3a-717f-49e4-8b04-5b79e47faf14?index=0)
+description: a group of three knights one in red armour one in black armour and last in silver armour all wearing heavy armor the knight in the center has horns attached to his helmets

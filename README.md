@@ -17,3 +17,7 @@ dark warrior knight dressed in armor and chain mail, helmet on his head, crusade
 
 ![Medieval Knight - Fantansy Knight](./0-fantasy-knight.jpg)
 [Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/0721e582-8558-44da-81ad-72bfbf66ca38?index=0)
+
+![Medieval Knight - Fantansy Knight](./five-knights-standing-with-swords-5-knights)
+[Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/3688387f-5295-4f2c-b9a1-8fc00a085988?index=0)
+description: 5 knights standing side by side with a sword putting in front of themselves.

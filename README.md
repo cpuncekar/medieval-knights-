@@ -25,5 +25,5 @@ description: 5 knights standing side by side with a sword putting in front of th
 description: a group of three knights one in red armour one in black armour and last in silver armour all wearing heavy armor the knight in the center has horns attached to his helmets
 
 ![Medieval Knight - Fantansy Knight](./000-knights-smoking.jpg)
-[Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/3688387f-5295-4f2c-b9a1-8fc00a085988?index=0)
+[Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/4b4a55c7-055a-45a4-839e-3955100b22b1?index=0)
 description: Three armored knights being resurrected by necromantic powers, 4k resolution, epic, insanely detailed, vivid colors, award-winning photography style

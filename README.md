@@ -28,9 +28,11 @@ description: a group of three knights one in red armour one in black armour and 
 [Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/4b4a55c7-055a-45a4-839e-3955100b22b1?index=0)
 description: Three armored knights being resurrected by necromantic powers, 4k resolution, epic, insanely detailed, vivid colors, award-winning photography style
 
-![Medieval Knight - Fantansy Knight](./00_majestic_knights_red.jpg)
+![Medieval Knight - Fantansy Knight Red Accents](./00_majestic_knights_red.jpg)
 [Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/4b52cef8-b59b-473d-aa59-54572b9354b9?index=0)
 description: Three majestic knights with red and white crosses on their armor, standing together in front of the city walls, in the style of fantasy art, detailed background, fantasy world setting, detailed faces, detailed eyes, detailed body poses, full-body shot, cinematic lighting, hyper-realistic, concept art.
 
-
+![Medieval Knight - Fantansy Knight Red Accents](./01_majestic_knights_red.jpg)
+[Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/1b03783b-c4f1-43f4-9153-7cc11c849338?index=0)
+description: Three majestic knights with red and white crosses on their armor, standing together in front of the city walls, in the style of fantasy art, detailed background, fantasy world setting, detailed faces, detailed eyes, detailed body poses, full-body shot, cinematic lighting, hyper-realistic, concept art.
 

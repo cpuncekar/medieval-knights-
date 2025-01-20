@@ -36,7 +36,7 @@ description: Three majestic knights with red and white crosses on their armor, s
 [Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/1b03783b-c4f1-43f4-9153-7cc11c849338?index=0)
 description: Three majestic knights with red and white crosses on their armor, standing together in front of the city walls, in the style of fantasy art, detailed background, fantasy world setting, detailed faces, detailed eyes, detailed body poses, full-body shot, cinematic lighting, hyper-realistic, concept art.
 
-![Medieval Knight - Fantansy Knight Red Accents](./01_majestic_knights_red.jpg)
-[Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/1b03783b-c4f1-43f4-9153-7cc11c849338?index=0)
+![Medieval Knight - Fantansy Knight Red Accents](./0_1_cartoon_knights.jpg)
+[Medieval Knight - Fantansy Knight - Link](https://www.midjourney.com/jobs/11c8f3d8-53ec-4326-9c61-0d0aacf171e3?index=0)
 description: the knights are facing the camera , cartoon style
 
